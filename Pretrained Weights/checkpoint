@@ -1,2 +1,2 @@
-model_checkpoint_path: "po_model"
-all_model_checkpoint_paths: "po_model"
+model_checkpoint_path: "po_hour"
+all_model_checkpoint_paths: "po_hour"
